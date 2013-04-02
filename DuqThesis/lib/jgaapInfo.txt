@@ -1,0 +1,126 @@
+JGAAP
+
+Canonicizers
+Add Errors
+Interviewee Text
+Normalize ASCII
+Normalize Whitespace
+Null Canonicizer
+Punctuation Separator
+Strip AlphaNumeric
+Strip Comments
+Strip Null Characters
+Strip Numbers
+Strip Punctuation
+Unify Case
+
+Cullers
+Frequency Range Event Culler
+Least Common Events
+Most Common Events
+X-treme Culler
+
+Event Drivers
+Appending Multiple EventDrivers
+Binned Frequencies
+Binned Reaction Times
+Binned naming times
+Black-List
+Character Grams
+Characters
+Coarse POS Tagger
+Definition Events
+First Word In Sentence
+Generic Event N-gram
+Generic Event N-gram
+Lexical Decision Reaction Times
+Lexical Frequencies
+M--N letter Words
+MW Function Words
+Naming Reaction Times
+New Lines
+Null Event Set
+Numeric Transformation Events
+POS
+POS Grams
+Rare Words
+Sentence Length
+Sentences
+Stanford Part of Speech
+Stanford Part of Speech NGrams
+Suffices
+Syllable Transitions
+Syllables Per Word
+Transformation Events
+Truncated Events
+Vowel M--N letter Words
+Vowel-initial Words
+White-List
+Word Grams
+Word Lengths
+Word stems
+Word stems w/ Irregular
+Words
+
+Classifiers
+Author Centroid Driver
+Author Neighbor Driver
+Burrows Delta
+Centroid Driver
+Event Centroid Driver
+Frequency Centroid Driver
+Gaussian SVM
+K-Nearest Neighbor Driver
+LDA
+Linear SVM
+Mahalanobis Distance
+Markov Chain Analysis
+Naive Bayes Classifier
+Nearest Neighbor Driver
+Null Analysis
+Null Histogram Analysis
+OldLDA
+PCA
+Random Analysis
+SPCA
+Vector Output
+WEKA Decision Stump Classifier
+WEKA J48 Decision Tree Classifier
+WEKA Least Median Squared
+WEKA Linear Regression
+WEKA Multilayer Perceptron
+WEKA Naive Bayes Classifier
+WEKA Pace Regression
+WEKA RBF Network
+WEKA SMO
+WEKA Simple Linear Regression
+WEKA Voted Perceptron
+
+Distances
+Angular Separation Distance
+Bhattacharyya Distance
+Bray Curtis Distance
+Canberra Distance
+Chi Square Distance
+Chord Distance
+Cosine Distance
+Histogram Distance
+Histogram Intersection Distance
+Intersection Distance
+JW Cross Entropy
+KS Distance
+Kendall Correlation Distance
+Kendall Correlation TauB
+Keselj-weighted Distance
+Kullback Leibler Distance
+LZW Divergence
+Levenshtein Distance
+Manhattan Distance
+Matusita Distance
+Mean Distance
+Pearson Correlation Distance
+RN Cross Entropy
+Soergle Distance
+Stamatatos Distance
+WED Divergence
+Wave Hedges Distance
