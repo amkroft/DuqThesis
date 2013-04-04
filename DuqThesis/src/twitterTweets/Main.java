@@ -1,10 +1,10 @@
 package twitterTweets;
 
-import tweets.generic.ManageTweets;
-import tweets.generic.ManageUsers;
-import tweets.generic.Statistics;
-import tweets.pull.PullTweets;
-import tweets.pull.PullUsers;
+import twitterTweets.generic.ManageTweets;
+import twitterTweets.generic.ManageUsers;
+import twitterTweets.generic.Statistics;
+import twitterTweets.pull.PullTweets;
+import twitterTweets.pull.PullUsers;
 
 public class Main {
 

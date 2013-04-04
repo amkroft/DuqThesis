@@ -11,9 +11,9 @@ import java.util.Calendar;
 import java.util.Scanner;
 import java.util.Set;
 
-import tweets.api.TwitterAPI;
-import tweets.generic.Extras;
-import tweets.generic.UserHelper;
+import twitterTweets.api.TwitterAPI;
+import twitterTweets.generic.Extras;
+import twitterTweets.generic.UserHelper;
 
 
 /**
